@@ -79,5 +79,3 @@ policypilot2/
         ├── pm_kisan_central.txt
         └── pm_kisan_gujarat.txt
 ```
-# policy_pilot
-AI-based platform to navigate government schemes
