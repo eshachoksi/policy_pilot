@@ -47,7 +47,7 @@ You will need two terminal windows: one for the Frontend, one for the Backend.
    ```
 4. Look at the terminal output. It will give you a local URL (usually `http://localhost:5173`). Open that link in your browser!
 
-## Demo Walkthrough for the Hackathon
+## Demo Walkthrough for the Hackathon.
 1. Open the web app. You will see the gorgeous, glassmorphic UI.
 2. In the text area, leave the default text or type: `"I am a 45-year-old farmer in Gujarat with 2 acres..."`
 3. Click the "Upload Aadhaar" zone to simulate a document upload.
